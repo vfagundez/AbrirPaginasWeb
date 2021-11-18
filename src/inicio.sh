@@ -3,7 +3,6 @@
   #obtenemos la ruta del script
   parent_path=$( cd "$(dirname "${BASH_SOURCE[0]}")" ; pwd -P )
   web="../config/web.txt" #ruta del archivo web.txt
-
 #script
 cd "$parent_path" #nos movemos a la ruta del script
 if [[ -e "$web" ]]; then #si el fichero existe
@@ -15,3 +14,4 @@ else
     #si no existe mostramos un mensaje de error
     echo "El fichero $web no existe"
 fi
+sleep 3 #esperamos 3 segundos para permitir que el navegador abra la url

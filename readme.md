@@ -7,7 +7,7 @@ Script de bash para abrir varias paginas web
 Este script bash esta diseñado para Linux
 
 
-### Configuración 🔧
+### Instalación y Configuración 🔧
 
 Una vez descargado el proyecto encontramos la siguiente estructura de carpetas
 ```
@@ -35,11 +35,18 @@ el proyecto
 ```
 Exec=/tu_ruta/AbrirPaginasWeb/src/inicio.sh
 ```
+Despues debes copiar este archivo en la ruta _~/user/share/applications/_ 
+para lo que puedes usar el siguiente comando:
+```
+cd shortcuts
+sudo cp inicio.desktop  /usr/share/applications
+```
+
 ## Funcionamiento ⚙️
 
 
 Una vez terminada la configuración, para poder ejecutar el script podemos
-utilizar el enlace del escritorio, o ejecutar el script desde el terminal.
+utilizar la tecla _super_ o _windows_ y escribir el nombre del script o ejecutar el script desde el terminal.
 
 Para ello navegamos a la ruta en la que se encuentra el script. A la cual,
 podemos acceder usando el siguiente comando, desde la ruta base del proyecto:
