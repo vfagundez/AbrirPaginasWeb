@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Exec=/media/vincitori/Mis Datos/Mis_Datos/A3_Profesional/B2_Desarrollo/C1_ProyectosPersonales/D2_Scripts/AbrirPaginasWeb/src/inicio.sh
+Name=Inicio
+GenericName=Inicio
+Comment=Iniciar paginas por defecto
+Encoding=UTF-8
+Terminal=true
+Type=Application
+
