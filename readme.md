@@ -23,7 +23,7 @@ abrirPaginasWeb
 
 Dentro de la carpeta _config_ se encuentra el archivo _web.txt_ en el cual
 podemos incluir las webs que queramos abrir. Cada web debe ir en una linea
-nueva. A continuación podemos ver un ejemplo:
+nueva. A continuación, podemos ver un ejemplo:
 
 ```
 https://www.marca.com/
