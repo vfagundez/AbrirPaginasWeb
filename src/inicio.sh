@@ -14,4 +14,4 @@ else
     #si no existe mostramos un mensaje de error
     echo "El fichero $web no existe"
 fi
-sleep 3 #esperamos 3 segundos para permitir que el navegador abra la url
+sleep 5 #esperamos 5 segundos para permitir que el navegador abra la url
