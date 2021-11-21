@@ -1,10 +1,16 @@
 # Abrir Paginas web
 
-Script de bash para abrir varias paginas web
+Script de bash para abrir varias paginas web a la vez
 
+## Comenzando 🚀
+
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local_
+
+Descarga el proyecto y guardalo en la carpeta en la que te apatezca.
 ### Pre-requisitos 📋
 
-Este script bash esta diseñado para Linux
+Este script bash ha sido diseñado para **Pop!_OS 21.04** pero deberia poder
+ejecutarse en cualquier distro linux
 
 
 ### Instalación y Configuración 🔧
@@ -60,4 +66,7 @@ Una vez en el directorio del script lo ejecutamos:
 Y las paginas que hayamos configurado en _web.txt_ se habriran en nuestro
 navegador por defecto.
 
+## Autores ✒️
 
+
+* **Victor Fagúndez Poyo** - *Trabajo Inicial* - [vincitori-dev](https://github.com/vincitori-dev)
